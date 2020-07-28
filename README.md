@@ -11,8 +11,8 @@
 I'm currently working a lot with Rust, in blockchain and fintech.
 
 Find me around the web:
-* <img align="left" alt="Nicolas Marshall | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> Tweeting [here](https://twitter.com/nmarshallfr)
-* 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/marshallnicolas/)
+- <img alt="Nicolas Marshall | Twitter" width="18px" height="18px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> Tweeting [here](https://twitter.com/nmarshallfr)
+- <span align="left">💼</div> Sharing updates on [LinkedIn](https://www.linkedin.com/in/marshallnicolas/)
 - 💬 Ask me about anything [here](https://github.com/nmrshll/nmrshll/issues)
 
 
