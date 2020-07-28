@@ -3,8 +3,9 @@
 <a href="https://twitter.com/nmarshallfr">
   <img align="left" alt="Nicolas Marshall | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<br/>
 
-I\m currently working a lot with Rust, in blockchain and fintech.
+I'm currently working a lot with Rust, in blockchain and fintech.
 
 Find me around the web:
 * Tweeting 
