@@ -8,9 +8,9 @@
 I'm currently working a lot with Rust, in blockchain and fintech.
 
 Find me around the web:
-* Tweeting 
-* Sharing updates on [LinkedIn](https://www.linkedin.com/in/marshallnicolas/) 💼
-* or simply email me at marshall . nicolas @ gmail
+* <img align="left" alt="Nicolas Marshall | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> Tweeting [here](https://twitter.com/nmarshallfr)
+* 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/marshallnicolas/)
+- 💬 Ask me about anything [here](https://github.com/nmrshll/nmrshll/issues)
 
 <!--
 **nmrshll/nmrshll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
