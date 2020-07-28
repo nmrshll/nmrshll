@@ -1,4 +1,7 @@
 ### Hello world!👋 I'm Nicolas
+
+![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nmrshll&count_private=true&show_icons=true&theme=radical)
+
 <!-- REPEATABLE -->
 <a href="https://twitter.com/nmarshallfr">
   <img align="left" alt="Nicolas Marshall | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
