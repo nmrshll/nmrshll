@@ -1,4 +1,4 @@
-### Hello world!👋 I'm Nicolas
+### Hello ! 👋 I'm Nicolas
 
 
 
@@ -9,11 +9,6 @@
 <br/>
 
 I'm currently working a lot with Rust, in blockchain and fintech.
-
-Find me around the web:
-- <img alt="Nicolas Marshall | Twitter" width="18px" height="18px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> Tweeting [here](https://twitter.com/nmarshallfr)
-- <span align="left">💼</div> Sharing updates on [LinkedIn](https://www.linkedin.com/in/marshallnicolas/)
-- 💬 Ask me about anything [here](https://github.com/nmrshll/nmrshll/issues)
 
 
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
