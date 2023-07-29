@@ -20,10 +20,11 @@ I'm currently working a lot with Rust, in blockchain and fintech.
 
 <br/>
 
+<!--
 <br/>![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nmrshll&count_private=true&show_icons=true&theme=radical)
+-->
 
 ![a repo](https://github-readme-stats.vercel.app/api/pin?username=gphotosuploader&repo=gphotos-uploader-cli)
 
 
-<!--
-**nmrshll/nmrshll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
