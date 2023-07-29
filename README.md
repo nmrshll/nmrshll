@@ -22,7 +22,7 @@ I'm currently working a lot with Rust, in blockchain and fintech.
 
 <br/>![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nmrshll&count_private=true&show_icons=true&theme=radical)
 
-[a repo](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
+![a repo](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
 
 
 <!--
