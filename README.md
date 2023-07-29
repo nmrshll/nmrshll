@@ -1,5 +1,8 @@
-### Hello ! 👋 I'm Nicolas
+### Hello ! 👋 I'm Nicolas 
 
+I'm a 🦀 Rust & blockchain developer 
+Mainly working on blockchain infrastructure, blockchain nodes, smart contracts, DeFi, identity, key mgmt & backup. 
+Also web backend/front-end.
 
 
 <!-- REPEATABLE -->
@@ -24,7 +27,13 @@ I'm currently working a lot with Rust, in blockchain and fintech.
 <br/>![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nmrshll&count_private=true&show_icons=true&theme=radical)
 -->
 
+#### Personal projects I've started
+
 ![a repo](https://github-readme-stats.vercel.app/api/pin?username=gphotosuploader&repo=gphotos-uploader-cli)
+![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=auth-rs-warp)
+![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=kademlia-dht-rs)
+![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=oauth2-noserver)
+![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=go-httpclient-middl)
 
 
 
