@@ -23,6 +23,7 @@ Also web backend/front-end.
 <br/>![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nmrshll&count_private=true&show_icons=true&theme=radical)
 -->
 
+
 ---
 #### Personal projects I've started
 (a while ago, I use Rust as a primary language now)
@@ -36,7 +37,7 @@ Also web backend/front-end.
 [![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=go-httpclient-middl)](https://github.com/nmrshll/go-httpclient-middl)
 
 
----
+
 #### Find me on these websites
 <a href="https://twitter.com/nmarshallfr"> <img align="left" alt="Nicolas Marshall | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
 <br/>
