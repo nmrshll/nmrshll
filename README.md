@@ -28,12 +28,13 @@ Also web backend/front-end.
 #### Personal projects I've started
 (a while ago, I use Rust as a primary language now)
 
-![a repo](https://github-readme-stats.vercel.app/api/pin?username=gphotosuploader&repo=gphotos-uploader-cli)
-![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=google-photos-api-client-go)
-![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=auth-rs-warp)
-![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=kademlia-dht-rs)
-![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=oauth2-noserver)
-![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=go-httpclient-middl)
+
+[![a repo](https://github-readme-stats.vercel.app/api/pin?username=gphotosuploader&repo=gphotos-uploader-cli)](https://github.com/gphotosuploader/gphotos-uploader-cli)
+[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=google-photos-api-client-go)](https://github.com/nmrshll/)
+[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=auth-rs-warp)](https://github.com/nmrshll/auth-rs-warp)
+[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=kademlia-dht-rs)](https://github.com/nmrshll/kademlia-dht-rs)
+[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=oauth2-noserver)](https://github.com/nmrshll/oauth2-noserver)
+[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=go-httpclient-middl)](https://github.com/nmrshll/go-httpclient-middl)
 
 
 
