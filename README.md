@@ -1,7 +1,7 @@
 ### Hello ! 👋 I'm Nicolas 
 
 I'm a 🦀 Rust & blockchain developer    
-Mainly working on blockchain infrastructure, blockchain nodes, smart contracts, DeFi & fintech, identity, key management & backup.    
+Mainly working on blockchain infrastructure, smart contracts, DeFi & fintech, APIs, distributed systems, identity & auth, key management, privacy.    
 Also web backend/front-end.
 
 
@@ -9,13 +9,19 @@ Also web backend/front-end.
 
 
 
-#### My usual tools
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<b>My usual tools</b>
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> Rust
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/postgresql/postgresql.png"> PostgreSQL
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/nix/nix.png"> Nix
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript / Javascript
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React
+<!-- &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"> Go -->
+
+<b>Blockchain ecosystems</b>
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/solana/solana.png"> Solana
+&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/ethereum/ethereum.png"> Ethereum / EVM-chains
+&nbsp; <img height="12" src="https://static.coingecko.com/s/polkadot-73b0c058cae10a2f076a82dcade5cbe38601fad05d5e6211188f09eb96fa4617.gif"> Parity Substrate
+&nbsp; <img height="12" src="https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"> NEAR
 
 <br/>
 
