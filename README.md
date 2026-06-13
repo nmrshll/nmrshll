@@ -1,5 +1,8 @@
 ### Hello ! 👋 I'm Nicolas 
 
+<img width="1024" height="156" alt="image" src="https://github.com/user-attachments/assets/9d33efe4-55d0-4c01-b1e4-30fa1346ba11" /><br/>
+
+
 I'm a 🦀 Rust & blockchain developer    
 Mainly working on blockchain infrastructure, smart contracts, DeFi & fintech, APIs, distributed systems, identity & auth, key management, privacy.    
 Also web backend/front-end.
@@ -34,17 +37,121 @@ Contact me:
 
 
 ---
-#### Personal projects I've started
-(a while ago, I use Rust as a primary language now)
+## Personal projects
 
 
-[![a repo](https://github-readme-stats.vercel.app/api/pin?username=gphotosuploader&repo=gphotos-uploader-cli)](https://github.com/gphotosuploader/gphotos-uploader-cli)
-[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=google-photos-api-client-go)](https://github.com/nmrshll/)
-[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=auth-rs-warp)](https://github.com/nmrshll/auth-rs-warp)
-[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=kademlia-dht-rs)](https://github.com/nmrshll/kademlia-dht-rs)
-[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=oauth2-noserver)](https://github.com/nmrshll/oauth2-noserver)
-[![a repo](https://github-readme-stats.vercel.app/api/pin?username=nmrshll&repo=go-httpclient-middl)](https://github.com/nmrshll/go-httpclient-middl)
+### Blockchain
+<table>
+  <tr>
+    <td width="33%"><strong><a href="https://github.com/encode-solana-g6/project">Solana Contracts</a></strong><br>
+Collection of Solana programs &amp; UI<br>
+<code>Rust</code> <code>Solana</code> <code>Anchor</code>
+</td>
+    <td width="33%"><strong><a href="https://github.com/nmrshll-templates/solidity/tree/try/flat-layout">Ethereum solidity templates</a></strong><br>
+Solidity template (Foundry or Hardhat)<br>
+<code>Solidity</code> <code>Ethereum</code>
+</td>
+    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong><br>
+Proving a blockchain state transition function (prev_balances + transactions = new_balances)<br>
+<code>Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
+</td>
+  </tr>
+</table>
 
+### Cryptography, Auth, Identity
+<table>
+  <tr>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/auth-rs-warp">auth-rs-warp</a></strong><br>
+Authentication / Authorization server example with Rust, Warp, Postgres<br>
+<code>Rust</code> <code>Warp</code> <code>Postgres</code> ⭐ 11
+</td>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/oauth2-noserver">oauth2-noserver</a></strong><br>
+Simplifying the OAuth2 auth flow for desktop / CLI apps that have no server side.<br>
+<code>Go</code> <code>OAuth</code> ⭐ 81
+</td>
+    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong><br>
+Proving a blockchain state transition function (prev_balances + transactions = new_balances)<br>
+<code>Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
+</td>
+  </tr>
+  <tr>
+    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/merkle-tree-noir">merkle-tree-noir</a></strong><br>
+Merkle tree with Pedersen hash calculated in Noir<br>
+<code>Noir</code> <code>Rust</code> ⭐ 2
+</td>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/auth-rs">auth-rs</a></strong><br>
+A minimal authentication / authorization server using rust, Hyper, Postgres, and async/await<br>
+<code>Rust</code> <code>hyper</code> ⭐ 3
+</td>
+    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/sigma-protocol">sigma-protocol</a></strong><br>
+Proof of knowledge of discrete logarithm, using sigma protocol and fiat-shamir transformation<br>
+<code>Rust</code>
+</td>
+  </tr>
+</table>
 
-<br/>
+### Distributed Systems
+<table>
+  <tr>
+    <td width="100%"><strong><a href="https://github.com/nmrshll/kademlia-dht-rs">kademlia-dht-rs</a></strong><br>
+Rust implementation of a Kademlia DHT<br>
+<code>Rust</code> ⭐ 11
+</td>
+  </tr>
+</table>
+
+### Finance, DeFi
+<table>
+  <tr>
+    <td width="50%"><strong><a href="https://gitlab.com/nmrshll/accounting">Automated Accounting</a></strong><br>
+<br>
+<code>Rust</code>
+</td>
+    <td width="50%"><strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong><br>
+<br>
+<code>Rust</code>
+</td>
+  </tr>
+</table>
+
+### Personal tools & libs
+<table>
+  <tr>
+    <td width="33%"><strong><a href="https://github.com/gphotosuploader/gphotos-uploader-cli">gphotos-uploader-cli</a></strong><br>
+Command line tool to mass upload media folders to your Google Photos account(s) (Mac OS / Linux)<br>
+<code>Go</code> ⭐ 760
+</td>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/go-httpclient-middl">go-httpclient-middl</a></strong><br>
+Add middleware to your HTTP clients in Go<br>
+<code>Go</code> ⭐ 2
+</td>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/google-photos-api-client-go">google-photos-api-client-go</a></strong><br>
+Google photos api client in go<br>
+<code>Go</code> ⭐ 37
+</td>
+  </tr>
+  <tr>
+    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/dns-filter-server">DNS local filtering server</a></strong><br>
+<br>
+<code>Rust</code>
+</td>
+    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/update-hosts?ref_type=heads">Manage /etc/hosts on a schedule</a></strong><br>
+<br>
+<code>Rust</code>
+</td>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/rust-libs">rust-libs</a></strong><br>
+Rust libraries<br>
+<code>Rust</code>
+</td>
+  </tr>
+  <tr>
+    <td width="33%"><strong><a href="https://github.com/nmrshll/my-nix">my-nix</a></strong><br>
+Functions, aliases and packages I often need, via a nix flake<br>
+<code>Nix</code>
+</td>
+    <td width="33"></td>
+    <td width="33"></td>
+  </tr>
+</table>
+
 
