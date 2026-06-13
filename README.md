@@ -103,11 +103,15 @@ Rust implementation of a Kademlia DHT<br>
 ### Finance, DeFi
 <table>
   <tr>
-    <td width="50%"><strong><a href="https://gitlab.com/nmrshll/accounting">Automated Accounting</a></strong><br>
+    <td width="33%"><strong><a href="https://github.com/encode-solana-g6/project">Solana Contracts</a></strong><br>
+Collection of Solana programs &amp; UI<br>
+<code>Rust</code> <code>Solana</code> <code>Anchor</code>
+</td>
+    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/accounting">Automated Accounting</a></strong><br>
 <br>
 <code>Rust</code>
 </td>
-    <td width="50%"><strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong><br>
+    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong><br>
 <br>
 <code>Rust</code>
 </td>
@@ -153,5 +157,4 @@ Functions, aliases and packages I often need, via a nix flake<br>
     <td width="33"></td>
   </tr>
 </table>
-
 
