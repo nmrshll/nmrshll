@@ -1,7 +1,7 @@
-### Hello ! 👋 I'm Nicolas 
-
 <img width="1024" height="156" alt="image" src="https://github.com/user-attachments/assets/9d33efe4-55d0-4c01-b1e4-30fa1346ba11" /><br/>
 
+
+### Hello ! 👋 I'm Nicolas 
 
 I'm a 🦀 Rust & blockchain developer    
 Mainly working on blockchain infrastructure, smart contracts, DeFi & fintech, APIs, distributed systems, identity & auth, key management, privacy.    
