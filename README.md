@@ -24,6 +24,7 @@ Also web backend/front-end.
 Contact me: 
 &nbsp; <a href="https://www.linkedin.com/in/marshallnicolas/"> <img alt="Nicolas Marshall | Linkedin" height="12" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /></a>
 &nbsp; <a href="https://twitter.com/nmarshallfr"> <img alt="Nicolas Marshall | Twitter" height="12" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
+&nbsp; <a href="https://gitlab.com/nmrshll"><img alt="gitlab" height="12" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg"/></a>
 
 <br/>
 
