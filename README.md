@@ -8,8 +8,6 @@ Mainly working on blockchain infrastructure, smart contracts, DeFi & fintech, AP
 Also web backend/front-end.
 
 
-
-
 <b>My usual tools</b>
 &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> Rust
 &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/postgresql/postgresql.png"> PostgreSQL
@@ -45,7 +43,7 @@ Contact me:
   <tr>
     <td width="33%"><strong><a href="https://github.com/encode-solana-g6/project">Solana Contracts</a></strong><br>
 Collection of Solana programs &amp; UI<br>
-<code>Rust</code> <code>Solana</code> <code>Anchor</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Solana</code> <code>Anchor</code>
 </td>
     <td width="33%"><strong><a href="https://github.com/nmrshll-templates/solidity/tree/try/flat-layout">Ethereum solidity templates</a></strong><br>
 Solidity template (Foundry or Hardhat)<br>
@@ -53,7 +51,7 @@ Solidity template (Foundry or Hardhat)<br>
 </td>
     <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong><br>
 Proving a blockchain state transition function (prev_balances + transactions = new_balances)<br>
-<code>Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
 </td>
   </tr>
 </table>
@@ -63,7 +61,7 @@ Proving a blockchain state transition function (prev_balances + transactions = n
   <tr>
     <td width="33%"><strong><a href="https://github.com/nmrshll/auth-rs-warp">auth-rs-warp</a></strong><br>
 Authentication / Authorization server example with Rust, Warp, Postgres<br>
-<code>Rust</code> <code>Warp</code> <code>Postgres</code> ⭐ 11
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Warp</code> <code>Postgres</code> ⭐ 11
 </td>
     <td width="33%"><strong><a href="https://github.com/nmrshll/oauth2-noserver">oauth2-noserver</a></strong><br>
 Simplifying the OAuth2 auth flow for desktop / CLI apps that have no server side.<br>
@@ -71,21 +69,21 @@ Simplifying the OAuth2 auth flow for desktop / CLI apps that have no server side
 </td>
     <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong><br>
 Proving a blockchain state transition function (prev_balances + transactions = new_balances)<br>
-<code>Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
 </td>
   </tr>
   <tr>
     <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/merkle-tree-noir">merkle-tree-noir</a></strong><br>
 Merkle tree with Pedersen hash calculated in Noir<br>
-<code>Noir</code> <code>Rust</code> ⭐ 2
+<code>Noir</code> <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> ⭐ 2
 </td>
     <td width="33%"><strong><a href="https://github.com/nmrshll/auth-rs">auth-rs</a></strong><br>
 A minimal authentication / authorization server using rust, Hyper, Postgres, and async/await<br>
-<code>Rust</code> <code>hyper</code> ⭐ 3
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>hyper</code> ⭐ 3
 </td>
     <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/sigma-protocol">sigma-protocol</a></strong><br>
 Proof of knowledge of discrete logarithm, using sigma protocol and fiat-shamir transformation<br>
-<code>Rust</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 </td>
   </tr>
 </table>
@@ -95,7 +93,7 @@ Proof of knowledge of discrete logarithm, using sigma protocol and fiat-shamir t
   <tr>
     <td width="100%"><strong><a href="https://github.com/nmrshll/kademlia-dht-rs">kademlia-dht-rs</a></strong><br>
 Rust implementation of a Kademlia DHT<br>
-<code>Rust</code> ⭐ 11
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> ⭐ 11
 </td>
   </tr>
 </table>
@@ -105,15 +103,15 @@ Rust implementation of a Kademlia DHT<br>
   <tr>
     <td width="33%"><strong><a href="https://github.com/encode-solana-g6/project">Solana Contracts</a></strong><br>
 Collection of Solana programs &amp; UI<br>
-<code>Rust</code> <code>Solana</code> <code>Anchor</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Solana</code> <code>Anchor</code>
 </td>
     <td width="33%"><strong><a href="https://gitlab.com/nmrshll/accounting">Automated Accounting</a></strong><br>
 <br>
-<code>Rust</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 </td>
     <td width="33%"><strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong><br>
 <br>
-<code>Rust</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 </td>
   </tr>
 </table>
@@ -137,15 +135,15 @@ Google photos api client in go<br>
   <tr>
     <td width="33%"><strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/dns-filter-server">DNS local filtering server</a></strong><br>
 <br>
-<code>Rust</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 </td>
     <td width="33%"><strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/update-hosts?ref_type=heads">Manage /etc/hosts on a schedule</a></strong><br>
 <br>
-<code>Rust</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 </td>
     <td width="33%"><strong><a href="https://github.com/nmrshll/rust-libs">rust-libs</a></strong><br>
 Rust libraries<br>
-<code>Rust</code>
+<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 </td>
   </tr>
   <tr>
@@ -157,4 +155,8 @@ Functions, aliases and packages I often need, via a nix flake<br>
     <td width="33"></td>
   </tr>
 </table>
+
+
+
+
 
