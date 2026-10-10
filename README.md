@@ -45,18 +45,18 @@ Contact me:
 - <strong><a href="https://github.com/encode-solana-g6/project">encode-solana-g6/project</a></strong> · Collection of Solana programs &amp; UI<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code><img alt="solana" src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="12" />&nbsp;Solana</code> <code><img alt="anchor" src="https://raw.githubusercontent.com/solana-foundation/anchor/50c68b9b9b57ce7a6f6014e707febef9abb33401/docs-v2/public/favicon.svg" height="12" />&nbsp;Anchor</code>
 - <strong><a href="https://github.com/nmrshll-templates/solidity/tree/try/flat-layout">nmrshll-templates/solidity</a></strong> · Foundry project template for Ethereum smart contracts<br>
-  <code><img alt="solidity" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/solidity/solidity-original.svg" height="12" />&nbsp;Solidity</code> <code><img alt="ethereum" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b590c7acdbaa23fd7b4eb6749d414725e590f365/icons/ethereum.svg" height="12" />&nbsp;Ethereum</code> <code><img alt="foundry" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/solid/hammer.svg" height="12" />&nbsp;Foundry</code>
+  <code><img alt="solidity" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/solidity-gradient.svg" height="12" />&nbsp;Solidity</code> <code><img alt="ethereum" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/ethereum-gradient.svg" height="12" />&nbsp;Ethereum</code> <code><img alt="foundry" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/foundry-gradient.svg" height="12" />&nbsp;Foundry</code>
 
 ### Cryptography, Auth, Identity
 
 - <strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong> · Proving a blockchain state transition function (prev_balances + transactions = new_balances) · ⭐ 1<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code><img alt="noir" src="https://raw.githubusercontent.com/noir-lang/noir/b28a74121c7c5d73f84845d2bdee4b4d42b73663/docs/static/img/favicon.svg" height="12" />&nbsp;Noir</code> <code><img alt="cairo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/43f78ec33fc9832f75b8919f6b860ca05db8681b/icons/file_type_cairo.svg" height="12" />&nbsp;Cairo</code>
 - <strong><a href="https://github.com/nmrshll/auth-rs-warp">auth-rs-warp</a></strong> · Authentication / Authorization server example with Rust, Warp, Postgres · ⭐ 11<br>
-  <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code>Warp</code> <code>Postgres</code>
+  <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code>Warp</code> <code><img alt="postgres" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg" height="12" />&nbsp;Postgres</code>
 - <strong><a href="https://github.com/nmrshll/auth-rs">nmrshll/auth-rs</a></strong> · Authentication / authorization server in Rust + hyper · ⭐ 3<br>
-  <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code>hyper</code> <code>Postgres</code>
+  <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code>hyper</code> <code><img alt="postgres" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg" height="12" />&nbsp;Postgres</code>
 - <strong><a href="https://github.com/nmrshll/oauth2-noserver">oauth2-noserver</a></strong> · Simplifying the oauth2 auth flow for desktop / cli apps that have no server side. · ⭐ 81<br>
-  <code>Go</code> <code>OAuth</code>
+  <code><img alt="go" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/go-dot.svg" height="12" />&nbsp;Go</code> <code>OAuth</code>
 - <strong><a href="https://github.com/zk-scaling-group5/merkle-tree-noir">zk-scaling-group5/merkle-tree-noir</a></strong> · Merkle tree with Pedersen hash calculated in Noir · ⭐ 2<br>
   <code><img alt="noir" src="https://raw.githubusercontent.com/noir-lang/noir/b28a74121c7c5d73f84845d2bdee4b4d42b73663/docs/static/img/favicon.svg" height="12" />&nbsp;Noir</code> <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code>
 - <strong><a href="https://github.com/zk-scaling-group5/sigma-protocol">zk-scaling-group5/sigma-protocol</a></strong> · Proof of knowledge of discrete logarithm, using sigma protocol and fiat-shamir transformation<br>
@@ -85,11 +85,11 @@ Contact me:
 - <strong><a href="https://get-taskstream.netlify.app/">Taskstream</a></strong> · <a href="https://github.com/lofi-tools/todo-lofi">github</a> · <a href="https://get-taskstream.netlify.app/">website</a> · Local-first task manager with nested tags, an embedded AI agent pane, and Todoist sync<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" />&nbsp;Rust</code> <code>GPUI</code>
 - <strong><a href="https://github.com/gphotosuploader/gphotos-uploader-cli">gphotosuploader/gphotos-uploader-cli</a></strong> · CLI Google photos automatic uploader in Go · ⭐ 769<br>
-  <code>Go</code>
+  <code><img alt="go" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/go-dot.svg" height="12" />&nbsp;Go</code>
 - <strong><a href="https://github.com/nmrshll/go-httpclient-middl">nmrshll/go-httpclient-middl</a></strong> · Add middleware to your HTTP clients in Go · ⭐ 2<br>
-  <code>Go</code>
+  <code><img alt="go" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/go-dot.svg" height="12" />&nbsp;Go</code>
 - <strong><a href="https://github.com/nmrshll/google-photos-api-client-go">nmrshll/google-photos-api-client-go</a></strong> · Google photos api client in go · ⭐ 37<br>
-  <code>Go</code>
+  <code><img alt="go" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/go-dot.svg" height="12" />&nbsp;Go</code>
 - <strong><a href="https://github.com/nmrshll/my-nix">nmrshll/my-nix</a></strong> · Functions, aliases and packages I often need, via a nix flake<br>
   <code><img alt="nix" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nixos/nixos-original.svg" height="12" />&nbsp;Nix</code>
 - <strong><a href="https://github.com/nmrshll/rust-libs">nmrshll/rust-libs</a></strong> · Rust libraries<br>
