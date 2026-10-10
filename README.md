@@ -35,19 +35,7 @@ Contact me:
 
 ---
 
-## Past (paid) work
-
-- Blockchain L1 migration, indexer &amp; infrastructure @ <a href="https://www.iota.org/">IOTA</a>
-- Bittensor indexer API &amp; database scaling @ <a href="https://taostats.io/">Taostats.io</a>
-- Programmable money APIs &amp; Cardano infrastructure @ <a href="https://www.unboxuniverse.com/">Unbox</a>
-- Solana DeFi programs &amp; cross-chain yield farming @ <a href="https://github.com/aldrin-labs">Aldrin Labs</a>
-- Substrate blockchain node, EVM &amp; APIs @ <a href="https://www.dock.io/">Dock</a>
-- Micropayment blockchain &amp; Rust application core @ <a href="https://www.pacio.io/">Pacio</a>
-- Contracts API &amp; data migration @ <a href="https://www.ovhcloud.com/">OVH Cloud</a>
-- Integrations framework &amp; Go API client @ <a href="https://www.teamwork.com/">Teamwork.com</a>
-- Microservices, event-driven architecture &amp; API proxy @ <a href="https://www.typeform.com/">Typeform</a>
-
-## Selected projects
+## Latest personal projects
 
 - <strong><a href="https://github.com/lofi-tools/tally">Tally</a></strong> · Computes company accounts, balance sheet, and profit and loss statements from a list of past transactions<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
@@ -56,7 +44,7 @@ Contact me:
 - <strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong> · Track crypto across accounts, chains, apps, platforms. Estimate historical value and current revenue.<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
 
-## Personal projects
+## More personal projects
 
 ### Blockchain
 
@@ -114,3 +102,16 @@ Contact me:
   <code><img alt="nix" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nixos/nixos-original.svg" height="12" align="absmiddle" />&nbsp;Nix</code>
 - <strong><a href="https://github.com/nmrshll/rust-libs">nmrshll/rust-libs</a></strong> · Rust libraries<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
+
+## Past (paid) work
+
+- Blockchain L1 migration, indexer &amp; infrastructure @ <a href="https://www.iota.org/">IOTA</a>
+- Bittensor indexer API &amp; database scaling @ <a href="https://taostats.io/">Taostats.io</a>
+- Programmable money APIs &amp; Cardano infrastructure @ <a href="https://www.unboxuniverse.com/">Unbox</a>
+- Solana DeFi programs &amp; cross-chain yield farming @ <a href="https://github.com/aldrin-labs">Aldrin Labs</a>
+- Substrate blockchain node, EVM &amp; APIs @ <a href="https://www.dock.io/">Dock</a>
+- Micropayment blockchain &amp; Rust application core @ <a href="https://www.pacio.io/">Pacio</a>
+- Contracts API &amp; data migration @ <a href="https://www.ovhcloud.com/">OVH Cloud</a>
+- Integrations framework &amp; Go API client @ <a href="https://www.teamwork.com/">Teamwork.com</a>
+- Microservices, event-driven architecture &amp; API proxy @ <a href="https://www.typeform.com/">Typeform</a>
+
