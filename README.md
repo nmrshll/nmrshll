@@ -1,4 +1,6 @@
+<!--
 <img width="1024" height="156" alt="image" src="https://github.com/user-attachments/assets/9d33efe4-55d0-4c01-b1e4-30fa1346ba11" /><br/>
+-->
 
 
 ### Hello ! 👋 I'm Nicolas 
