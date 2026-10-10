@@ -36,6 +36,7 @@ Contact me:
 
 ---
 ## Personal projects
+<!-- projects:start -->
 
 
 ### Blockchain
@@ -160,3 +161,4 @@ Functions, aliases and packages I often need, via a nix flake<br>
 
 
 
+<!-- projects:end -->
