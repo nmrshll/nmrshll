@@ -9,7 +9,7 @@ Also web backend/front-end.
 
 
 <b>My usual tools</b>
-&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> Rust
+&nbsp; 🦀 Rust
 &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/postgresql/postgresql.png"> PostgreSQL
 &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/nix/nix.png"> Nix
 &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript / Javascript
@@ -44,7 +44,7 @@ Contact me:
 - <strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong> · Track crypto across accounts, chains, apps, platforms. Estimate historical value and current revenue.<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
 
-## More personal projects <sub><sup><sub>even more on <img alt="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" height="10" align="baseline" /> <a href="https://gitlab.com/nmrshll">my gitlab</a></sub></sup></sub>
+## More personal projects <sub><sup>(even more on <img alt="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" height="12" align="baseline" /> <a href="https://gitlab.com/nmrshll">my gitlab</a>)</sup></sub>
 
 ### Blockchain
 
