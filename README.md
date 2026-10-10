@@ -37,14 +37,14 @@ Contact me:
 
 ## Latest personal projects
 
-- <strong><a href="https://github.com/lofi-tools/tally">Tally</a></strong> · Computes company accounts, balance sheet, and profit and loss statements from a list of past transactions<br>
+- <strong><a href="https://github.com/lofi-tools/tally">Tally</a></strong> · Computes accounts, balance sheet, and profit and loss statements for UK companies from past transactions<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
-- <strong><a href="https://get-taskstream.netlify.app/">Taskstream</a></strong> · <a href="https://github.com/lofi-tools/todo-lofi">github</a> · <a href="https://get-taskstream.netlify.app/">website</a> · Local-first task manager with nested tags, an embedded AI agent pane, and Todoist sync<br>
+- <strong><a href="https://get-taskstream.netlify.app/">Taskstream</a></strong> · <a href="https://github.com/lofi-tools/todo-lofi">github</a> · <a href="https://get-taskstream.netlify.app/">website</a> · Local-first task manager with nested tags, an embedded AI agent pane, and many cloud sync integrations<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code> <code>GPUI</code>
 - <strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong> · Track crypto across accounts, chains, apps, platforms. Estimate historical value and current revenue.<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
 
-## More personal projects <sub><sup>(even more on <img alt="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" height="12" align="baseline" /> <a href="https://gitlab.com/nmrshll">my gitlab</a>)</sup></sub>
+## More personal projects <sub><sup><sub>(even more on <img alt="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" height="10" align="baseline" /> <a href="https://gitlab.com/nmrshll">my gitlab</a></sub></sup></sub>)
 
 ### Blockchain
 
@@ -79,7 +79,7 @@ Contact me:
 
 - <strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong> · Track crypto across accounts, chains, apps, platforms. Estimate historical value and current revenue.<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
-- <strong><a href="https://github.com/lofi-tools/tally">Tally</a></strong> · Computes company accounts, balance sheet, and profit and loss statements from a list of past transactions<br>
+- <strong><a href="https://github.com/lofi-tools/tally">Tally</a></strong> · Computes accounts, balance sheet, and profit and loss statements for UK companies from past transactions<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
 - <strong><a href="https://github.com/encode-solana-g6/project">encode-solana-g6/project</a></strong> · Collection of Solana programs &amp; UI<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code> <code><img alt="solana" src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="12" align="absmiddle" />&nbsp;Solana</code> <code><img alt="anchor" src="https://raw.githubusercontent.com/solana-foundation/anchor/50c68b9b9b57ce7a6f6014e707febef9abb33401/docs-v2/public/favicon.svg" height="12" align="absmiddle" />&nbsp;Anchor</code>
@@ -90,7 +90,7 @@ Contact me:
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
 - <strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/update-hosts?ref_type=heads">Manage /etc/hosts on a schedule</a></strong> · Tool to manage /etc/hosts on a schedule (part of the tools workspace)<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
-- <strong><a href="https://get-taskstream.netlify.app/">Taskstream</a></strong> · <a href="https://github.com/lofi-tools/todo-lofi">github</a> · <a href="https://get-taskstream.netlify.app/">website</a> · Local-first task manager with nested tags, an embedded AI agent pane, and Todoist sync<br>
+- <strong><a href="https://get-taskstream.netlify.app/">Taskstream</a></strong> · <a href="https://github.com/lofi-tools/todo-lofi">github</a> · <a href="https://get-taskstream.netlify.app/">website</a> · Local-first task manager with nested tags, an embedded AI agent pane, and many cloud sync integrations<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code> <code>GPUI</code>
 - <strong><a href="https://github.com/gphotosuploader/gphotos-uploader-cli">gphotosuploader/gphotos-uploader-cli</a></strong> · CLI Google photos automatic uploader in Go · ⭐ 769<br>
   <code><img alt="go" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/go-dot.svg" height="12" align="absmiddle" />&nbsp;Go</code>
