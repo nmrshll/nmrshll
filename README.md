@@ -33,10 +33,9 @@ Contact me:
 <br/>![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nmrshll&count_private=true&show_icons=true&theme=radical)
 -->
 
-
 ---
+
 ## Personal projects
-<!-- projects:start -->
 
 ### Blockchain
 
@@ -94,4 +93,3 @@ Contact me:
   <code><img alt="nix" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nixos/nixos-original.svg" height="12" align="absmiddle" />&nbsp;Nix</code>
 - <strong><a href="https://github.com/nmrshll/rust-libs">nmrshll/rust-libs</a></strong> · Rust libraries<br>
   <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" height="12" align="absmiddle" />&nbsp;Rust</code>
-<!-- projects:end -->
