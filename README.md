@@ -38,127 +38,39 @@ Contact me:
 ## Personal projects
 <!-- projects:start -->
 
-
 ### Blockchain
-<table>
-  <tr>
-    <td width="33%"><strong><a href="https://github.com/encode-solana-g6/project">Solana Contracts</a></strong><br>
-Collection of Solana programs &amp; UI<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Solana</code> <code>Anchor</code>
-</td>
-    <td width="33%"><strong><a href="https://github.com/nmrshll-templates/solidity/tree/try/flat-layout">Ethereum solidity templates</a></strong><br>
-Solidity template (Foundry or Hardhat)<br>
-<code>Solidity</code> <code>Ethereum</code>
-</td>
-    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong><br>
-Proving a blockchain state transition function (prev_balances + transactions = new_balances)<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
-</td>
-  </tr>
-</table>
+
+- <strong>ZK proof of blockchain state transition</strong> · <strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">Repository</a></strong> · Proving a blockchain state transition function (prev_balances + transactions = new_balances) · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
+- <strong>encode-solana-g6/project</strong> · <strong><a href="https://github.com/encode-solana-g6/project">Repository</a></strong> · Collection of Solana programs &amp; UI · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Solana</code> <code>Anchor</code>
+- <strong>nmrshll-templates/solidity</strong> · <strong><a href="https://github.com/nmrshll-templates/solidity/tree/try/flat-layout">Repository</a></strong> · Foundry project template for Ethereum smart contracts · <code>Solidity</code> <code>Ethereum</code> <code>Foundry</code>
 
 ### Cryptography, Auth, Identity
-<table>
-  <tr>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/auth-rs-warp">auth-rs-warp</a></strong><br>
-Authentication / Authorization server example with Rust, Warp, Postgres<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Warp</code> <code>Postgres</code> ⭐ 11
-</td>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/oauth2-noserver">oauth2-noserver</a></strong><br>
-Simplifying the OAuth2 auth flow for desktop / CLI apps that have no server side.<br>
-<code>Go</code> <code>OAuth</code> ⭐ 81
-</td>
-    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">ZK proof of blockchain state transition</a></strong><br>
-Proving a blockchain state transition function (prev_balances + transactions = new_balances)<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
-</td>
-  </tr>
-  <tr>
-    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/merkle-tree-noir">merkle-tree-noir</a></strong><br>
-Merkle tree with Pedersen hash calculated in Noir<br>
-<code>Noir</code> <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> ⭐ 2
-</td>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/auth-rs">auth-rs</a></strong><br>
-A minimal authentication / authorization server using rust, Hyper, Postgres, and async/await<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>hyper</code> ⭐ 3
-</td>
-    <td width="33%"><strong><a href="https://github.com/zk-scaling-group5/sigma-protocol">sigma-protocol</a></strong><br>
-Proof of knowledge of discrete logarithm, using sigma protocol and fiat-shamir transformation<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
-</td>
-  </tr>
-</table>
+
+- <strong>ZK proof of blockchain state transition</strong> · <strong><a href="https://github.com/zk-scaling-group5/blockchain-state-transition">Repository</a></strong> · Proving a blockchain state transition function (prev_balances + transactions = new_balances) · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Noir</code> <code>Cairo</code> ⭐ 1
+- <strong>auth-rs-warp</strong> · <strong><a href="https://github.com/nmrshll/auth-rs-warp">Repository</a></strong> · Authentication / Authorization server example with Rust, Warp, Postgres · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Warp</code> <code>Postgres</code> ⭐ 11
+- <strong>nmrshll/auth-rs</strong> · <strong><a href="https://github.com/nmrshll/auth-rs">Repository</a></strong> · Authentication / authorization server in Rust + hyper · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>hyper</code> <code>Postgres</code> ⭐ 3
+- <strong>oauth2-noserver</strong> · <strong><a href="https://github.com/nmrshll/oauth2-noserver">Repository</a></strong> · Simplifying the oauth2 auth flow for desktop / cli apps that have no server side. · <code>Go</code> <code>OAuth</code> ⭐ 81
+- <strong>zk-scaling-group5/merkle-tree-noir</strong> · <strong><a href="https://github.com/zk-scaling-group5/merkle-tree-noir">Repository</a></strong> · Merkle tree with Pedersen hash calculated in Noir · <code>Noir</code> <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> ⭐ 2
+- <strong>zk-scaling-group5/sigma-protocol</strong> · <strong><a href="https://github.com/zk-scaling-group5/sigma-protocol">Repository</a></strong> · Proof of knowledge of discrete logarithm, using sigma protocol and fiat-shamir transformation · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 
 ### Distributed Systems
-<table>
-  <tr>
-    <td width="100%"><strong><a href="https://github.com/nmrshll/kademlia-dht-rs">kademlia-dht-rs</a></strong><br>
-Rust implementation of a Kademlia DHT<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> ⭐ 11
-</td>
-  </tr>
-</table>
+
+- <strong>nmrshll/kademlia-dht-rs</strong> · <strong><a href="https://github.com/nmrshll/kademlia-dht-rs">Repository</a></strong> · Rust implementation of a Kademlia DHT · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> ⭐ 11
 
 ### Finance, DeFi
-<table>
-  <tr>
-    <td width="33%"><strong><a href="https://github.com/encode-solana-g6/project">Solana Contracts</a></strong><br>
-Collection of Solana programs &amp; UI<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Solana</code> <code>Anchor</code>
-</td>
-    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/accounting">Automated Accounting</a></strong><br>
-<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
-</td>
-    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Crypto Tracker</a></strong><br>
-<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
-</td>
-  </tr>
-</table>
+
+- <strong>Crypto Tracker</strong> · <strong><a href="https://gitlab.com/nmrshll/crypto-tracker">Repository</a></strong> · Track crypto across accounts, chains, apps, platforms. Estimate historical value and current revenue. · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
+- <strong>Tally</strong> · <strong><a href="https://github.com/lofi-tools/tally">Repository</a></strong> · Computes company accounts, balance sheet, and profit and loss statements from a list of past transactions · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
+- <strong>encode-solana-g6/project</strong> · <strong><a href="https://github.com/encode-solana-g6/project">Repository</a></strong> · Collection of Solana programs &amp; UI · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>Solana</code> <code>Anchor</code>
 
 ### Personal tools & libs
-<table>
-  <tr>
-    <td width="33%"><strong><a href="https://github.com/gphotosuploader/gphotos-uploader-cli">gphotos-uploader-cli</a></strong><br>
-Command line tool to mass upload media folders to your Google Photos account(s) (Mac OS / Linux)<br>
-<code>Go</code> ⭐ 760
-</td>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/go-httpclient-middl">go-httpclient-middl</a></strong><br>
-Add middleware to your HTTP clients in Go<br>
-<code>Go</code> ⭐ 2
-</td>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/google-photos-api-client-go">google-photos-api-client-go</a></strong><br>
-Google photos api client in go<br>
-<code>Go</code> ⭐ 37
-</td>
-  </tr>
-  <tr>
-    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/dns-filter-server">DNS local filtering server</a></strong><br>
-<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
-</td>
-    <td width="33%"><strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/update-hosts?ref_type=heads">Manage /etc/hosts on a schedule</a></strong><br>
-<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
-</td>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/rust-libs">rust-libs</a></strong><br>
-Rust libraries<br>
-<code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
-</td>
-  </tr>
-  <tr>
-    <td width="33%"><strong><a href="https://github.com/nmrshll/my-nix">my-nix</a></strong><br>
-Functions, aliases and packages I often need, via a nix flake<br>
-<code>Nix</code>
-</td>
-    <td width="33"></td>
-    <td width="33"></td>
-  </tr>
-</table>
 
-
-
-
-
+- <strong>DNS local filtering server</strong> · <strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/dns-filter-server">Repository</a></strong> · DNS filtering server (part of the tools workspace) · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
+- <strong>Manage /etc/hosts on a schedule</strong> · <strong><a href="https://gitlab.com/nmrshll/tools/-/tree/main/crates/update-hosts?ref_type=heads">Repository</a></strong> · Tool to manage /etc/hosts on a schedule (part of the tools workspace) · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
+- <strong>Taskstream</strong> · <strong><a href="https://github.com/lofi-tools/todo-lofi">Repository</a></strong> · <a href="https://get-taskstream.netlify.app/"><em>Website</em></a> · Local-first task manager with nested tags, an embedded AI agent pane, and Todoist sync · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code> <code>GPUI</code>
+- <strong>gphotosuploader/gphotos-uploader-cli</strong> · <strong><a href="https://github.com/gphotosuploader/gphotos-uploader-cli">Repository</a></strong> · CLI Google photos automatic uploader in Go · <code>Go</code> ⭐ 769
+- <strong>nmrshll/go-httpclient-middl</strong> · <strong><a href="https://github.com/nmrshll/go-httpclient-middl">Repository</a></strong> · Add middleware to your HTTP clients in Go · <code>Go</code> ⭐ 2
+- <strong>nmrshll/google-photos-api-client-go</strong> · <strong><a href="https://github.com/nmrshll/google-photos-api-client-go">Repository</a></strong> · Google photos api client in go · <code>Go</code> ⭐ 37
+- <strong>nmrshll/my-nix</strong> · <strong><a href="https://github.com/nmrshll/my-nix">Repository</a></strong> · Functions, aliases and packages I often need, via a nix flake · <code>Nix</code>
+- <strong>nmrshll/rust-libs</strong> · <strong><a href="https://github.com/nmrshll/rust-libs">Repository</a></strong> · Rust libraries · <code><img alt="rust" src="https://raw.githubusercontent.com/nmrshll/nmrshll/refs/heads/master/assets/rust-dot.svg" />&nbsp;Rust</code>
 <!-- projects:end -->
