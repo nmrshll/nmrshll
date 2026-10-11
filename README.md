@@ -26,6 +26,7 @@ Also web backend/front-end.
 
 Contact me:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
+&nbsp; <a href="mailto:marshall.nicolas@gmail.com">✉️ marshall.nicolas@gmail.com</a>
 &nbsp; <a href="https://gitlab.com/nmrshll"><img alt="" height="12" align="absmiddle" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" /> GitLab</a>
 &nbsp; <a href="https://huggingface.co/nmarshall">🤗 Hugging Face</a>
 &nbsp; <a href="https://www.linkedin.com/in/marshallnicolas/"><img alt="" height="12" align="absmiddle" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /> LinkedIn</a>
