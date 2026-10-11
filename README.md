@@ -20,9 +20,9 @@ Also web backend/front-end.
 
 <b>Blockchain ecosystems</b>
 &nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/solana/solana.png"> Solana
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/ethereum/ethereum.png"> Ethereum / EVM-chains
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://coin-images.coingecko.com/coins/images/12171/small/polkadot.jpg?1766533446"> Parity Substrate
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/16de1ca974576e55658ee1a76f7a6b434af3bfdb/assets/near-icon.svg"> NEAR
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/341267eb4259ca276df630f89fefa990019cdcea/assets/ethereum-icon.svg"> Ethereum / EVM-chains
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/341267eb4259ca276df630f89fefa990019cdcea/assets/polkadot-icon.svg"> Parity Substrate
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/341267eb4259ca276df630f89fefa990019cdcea/assets/near-icon.svg"> NEAR
 &nbsp; <img width="12" height="12" align="absmiddle" alt="Sui" src="https://raw.githubusercontent.com/nmrshll/nmrshll/16de1ca974576e55658ee1a76f7a6b434af3bfdb/assets/sui-icon.svg"> Sui / IOTA
 
 Find me on:
