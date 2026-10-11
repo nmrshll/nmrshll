@@ -24,12 +24,12 @@ Also web backend/front-end.
 &nbsp; <img height="12" src="https://static.coingecko.com/s/polkadot-73b0c058cae10a2f076a82dcade5cbe38601fad05d5e6211188f09eb96fa4617.gif"> Parity Substrate
 &nbsp; <img height="12" src="https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"> NEAR
 
-Contact me: 
-&nbsp; <a href="https://huggingface.co/nmarshall">🤗 Hugging Face</a>
+Contact me:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
-&nbsp; <a href="https://www.linkedin.com/in/marshallnicolas/"> <img alt="Nicolas Marshall | Linkedin" height="12" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /></a>
-&nbsp; <a href="https://twitter.com/nmarshallfr"> <img alt="Nicolas Marshall | Twitter" height="12" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
-&nbsp; <a href="https://gitlab.com/nmrshll"><img alt="gitlab" height="12" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg"/></a>
+&nbsp; <a href="https://gitlab.com/nmrshll"><img alt="" height="12" align="absmiddle" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" /> GitLab</a>
+&nbsp; <a href="https://huggingface.co/nmarshall">🤗 Hugging Face</a>
+&nbsp; <a href="https://www.linkedin.com/in/marshallnicolas/"><img alt="" height="12" align="absmiddle" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /> LinkedIn</a>
+&nbsp; <a href="https://twitter.com/nmarshallfr"><img alt="" height="12" align="absmiddle" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> Twitter</a>
 
 <br/>
 
