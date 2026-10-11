@@ -25,6 +25,7 @@ Also web backend/front-end.
 &nbsp; <img height="12" src="https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"> NEAR
 
 Contact me: 
+&nbsp; <a href="https://huggingface.co/nmarshall">🤗 Hugging Face</a>
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
 &nbsp; <a href="https://www.linkedin.com/in/marshallnicolas/"> <img alt="Nicolas Marshall | Linkedin" height="12" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /></a>
 &nbsp; <a href="https://twitter.com/nmarshallfr"> <img alt="Nicolas Marshall | Twitter" height="12" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
