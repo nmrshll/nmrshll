@@ -19,11 +19,11 @@ Also web backend/front-end.
 <!-- &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"> Go -->
 
 <b>Blockchain ecosystems</b>
-&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/solana/solana.png"> Solana
-&nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/ethereum/ethereum.png"> Ethereum / EVM-chains
-&nbsp; <img height="12" src="https://coin-images.coingecko.com/coins/images/12171/small/polkadot.jpg?1766533446"> Parity Substrate
-&nbsp; <img height="12" src="https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"> NEAR
-&nbsp; <img alt="Sui" height="12" align="absmiddle" src="https://docs.sui.io/img/logo.svg"> Sui / IOTA
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/solana/solana.png"> Solana
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/ethereum/ethereum.png"> Ethereum / EVM-chains
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://coin-images.coingecko.com/coins/images/12171/small/polkadot.jpg?1766533446"> Parity Substrate
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/16de1ca974576e55658ee1a76f7a6b434af3bfdb/assets/near-icon.svg"> NEAR
+&nbsp; <img width="12" height="12" align="absmiddle" alt="Sui" src="https://raw.githubusercontent.com/nmrshll/nmrshll/16de1ca974576e55658ee1a76f7a6b434af3bfdb/assets/sui-icon.svg"> Sui / IOTA
 
 Find me on:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
