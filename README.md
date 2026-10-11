@@ -20,10 +20,10 @@ Also web backend/front-end.
 
 <b>Blockchain ecosystems</b>
 &nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/solana/solana.png"> Solana
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/341267eb4259ca276df630f89fefa990019cdcea/assets/ethereum-icon.svg"> Ethereum / EVM-chains
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/341267eb4259ca276df630f89fefa990019cdcea/assets/polkadot-icon.svg"> Parity Substrate
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/341267eb4259ca276df630f89fefa990019cdcea/assets/near-icon.svg"> NEAR
-&nbsp; <img width="12" height="12" align="absmiddle" alt="Sui" src="https://raw.githubusercontent.com/nmrshll/nmrshll/16de1ca974576e55658ee1a76f7a6b434af3bfdb/assets/sui-icon.svg"> Sui / IOTA
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/f2908a816fb73f186078f57c3d6988f3715f18b3/assets/ethereum-icon.svg"> Ethereum / EVM-chains
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/f2908a816fb73f186078f57c3d6988f3715f18b3/assets/polkadot-icon.svg"> Parity Substrate
+&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/f2908a816fb73f186078f57c3d6988f3715f18b3/assets/near-icon.svg"> NEAR
+&nbsp; <img width="12" height="12" align="absmiddle" alt="Sui" src="https://raw.githubusercontent.com/nmrshll/nmrshll/f2908a816fb73f186078f57c3d6988f3715f18b3/assets/sui-icon.svg"> Sui / IOTA
 
 Find me on:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
