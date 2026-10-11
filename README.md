@@ -24,9 +24,8 @@ Also web backend/front-end.
 &nbsp; <img height="12" src="https://static.coingecko.com/s/polkadot-73b0c058cae10a2f076a82dcade5cbe38601fad05d5e6211188f09eb96fa4617.gif"> Parity Substrate
 &nbsp; <img height="12" src="https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"> NEAR
 
-Contact me:
+Find me on:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
-&nbsp; <a href="mailto:marshall.nicolas@gmail.com">✉️ marshall.nicolas@gmail.com</a>
 &nbsp; <a href="https://gitlab.com/nmrshll"><img alt="" height="12" align="absmiddle" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" /> GitLab</a>
 &nbsp; <a href="https://huggingface.co/nmarshall">🤗 Hugging Face</a>
 &nbsp; <a href="https://www.linkedin.com/in/marshallnicolas/"><img alt="" height="12" align="absmiddle" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /> LinkedIn</a>
