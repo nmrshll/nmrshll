@@ -23,7 +23,7 @@ Also web backend/front-end.
 &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/ethereum/ethereum.png"> Ethereum / EVM-chains
 &nbsp; <img height="12" src="https://static.coingecko.com/s/polkadot-73b0c058cae10a2f076a82dcade5cbe38601fad05d5e6211188f09eb96fa4617.gif"> Parity Substrate
 &nbsp; <img height="12" src="https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"> NEAR
-&nbsp; Sui / IOTA
+&nbsp; <img alt="Sui" height="12" align="absmiddle" src="https://docs.sui.io/img/logo.svg"> Sui / IOTA
 
 Find me on:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
