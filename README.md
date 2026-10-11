@@ -19,11 +19,11 @@ Also web backend/front-end.
 <!-- &nbsp; <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"> Go -->
 
 <b>Blockchain ecosystems</b>
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/solana-icon.svg"> Solana
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/ethereum-icon.svg"> Ethereum / EVM-chains
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/polkadot-icon.svg"> Parity Substrate
-&nbsp; <img width="12" height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/near-icon.svg"> NEAR
-&nbsp; <img width="12" height="12" align="absmiddle" alt="Sui" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/sui-icon.svg"> Sui / IOTA
+&nbsp; <img height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/solana-icon.svg"> Solana
+&nbsp; <img height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/ethereum-icon.svg"> Ethereum / EVM-chains
+&nbsp; <img height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/polkadot-icon.svg"> Parity Substrate
+&nbsp; <img height="12" align="absmiddle" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/near-icon.svg"> NEAR
+&nbsp; <img height="12" align="absmiddle" alt="Sui" src="https://raw.githubusercontent.com/nmrshll/nmrshll/cea8d01695f05906bb718ed3a0d0d9ab311f5d36/assets/sui-icon.svg"> Sui / IOTA
 
 Find me on:
 &nbsp; <a href="https://n-marshall.netlify.app/">🌐 Website</a>
